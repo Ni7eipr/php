@@ -1,0 +1,28 @@
+    body{
+    background: url(../img/300082-106.jpg);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+    background-size: cover;
+    moz-user-select: -moz-none;
+    -moz-user-select: none;
+    -o-user-select:none;
+    -khtml-user-select:none;
+    -webkit-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+    cursor:default;
+    text-shadow: black 5px 5px 10px;
+    padding-top:50px;
+    }
+    .indext{
+    text-shadow: black 8px 8px 6px;
+    padding-top:60px;
+    }
+    .banner{
+    right:30px;
+    text-shadow: black 8px 8px 6px;
+    width:2%;
+    top:100px;
+    position:absolute;
+    }
